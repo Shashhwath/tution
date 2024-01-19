@@ -1,0 +1,56 @@
+h1{
+    text-align:center;
+     font-size: 50px;
+    font-weight: bold;
+}
+div.h2{
+    background-color:black;
+    color:white;
+    margin-left: 5px;
+    height:40px;
+    padding:10px;
+    font-style: italic;
+    width:300px;
+    border-style: solid;
+    border-color:black;
+    border-radius: 0%;
+    padding-bottom: 30px;;
+
+}
+div.start
+{
+    border:10px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    height:50px;
+    width:200px;
+    border-radius: 30px;
+    padding-bottom: 20px;
+    background-color: blueviolet;
+    color:white;
+}
+h2.register{
+    background-color: black;
+    height:25px;
+    padding:10px;
+    font-style: italic;
+    color:white;
+    text-align:center;
+    width:100px;
+    
+}
+body{
+    background-image: url("tution.jpg");
+    background-attachment: fixed;
+}
+div{
+    border-style: solid;
+    border-color:black;
+    text-align:center;
+    height: 400px;
+    width:400px;
+    background-color: grey;
+    color:white;
+    border-radius:30px;
+}
